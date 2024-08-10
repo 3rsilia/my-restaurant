@@ -4,9 +4,9 @@ body{
 }
 
 h1{
-    color: black;
+    color: blue;
 }
 
-.contactform{
-    background-color: lightcoral;
+.contact-form{
+    background-color: white;
 }
